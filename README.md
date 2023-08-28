@@ -1,8 +1,9 @@
 # Makaylah Garcia
-Hi, I am a 2nd-year student at Chandler-Gilbert Community College getting my Associate in Science, Emphasis in Computer Science. 
+Hi, I am a 3nd-year student at ASU getting my Bachlors in Computer Science, Concentration in Software Engineering. 
 
 # Skills
 * Java
+* C/C++
 * HTML, CSS, JS
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MakaylahG&theme=radical)
